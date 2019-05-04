@@ -1,0 +1,11 @@
+C:\Users\William\Documents\warninggenerator\bin\Debug\netcoreapp2.1\warninggenerator.deps.json
+C:\Users\William\Documents\warninggenerator\bin\Debug\netcoreapp2.1\warninggenerator.runtimeconfig.json
+C:\Users\William\Documents\warninggenerator\bin\Debug\netcoreapp2.1\warninggenerator.runtimeconfig.dev.json
+C:\Users\William\Documents\warninggenerator\bin\Debug\netcoreapp2.1\warninggenerator.dll
+C:\Users\William\Documents\warninggenerator\bin\Debug\netcoreapp2.1\warninggenerator.pdb
+C:\Users\William\Documents\warninggenerator\obj\Debug\netcoreapp2.1\warninggenerator.csprojAssemblyReference.cache
+C:\Users\William\Documents\warninggenerator\obj\Debug\netcoreapp2.1\warninggenerator.csproj.CoreCompileInputs.cache
+C:\Users\William\Documents\warninggenerator\obj\Debug\netcoreapp2.1\warninggenerator.AssemblyInfoInputs.cache
+C:\Users\William\Documents\warninggenerator\obj\Debug\netcoreapp2.1\warninggenerator.AssemblyInfo.cs
+C:\Users\William\Documents\warninggenerator\obj\Debug\netcoreapp2.1\warninggenerator.dll
+C:\Users\William\Documents\warninggenerator\obj\Debug\netcoreapp2.1\warninggenerator.pdb
