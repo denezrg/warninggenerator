@@ -2,13 +2,21 @@
 Warning Codes
 
 SV - Severe Thunderstorm Warning
+
 TOR - Tornado Warning
+
 CON - Radar Confirmed
+
 SPT - Spotter Confirmed
+
 LAW - Law Enforcement Confirmed
+
 TORE - Tornado Emergency
+
 PDSCON - PDS Radar Confirmed
+
 PDSSPT - PDS Spotter Confirmed
+
 PDSLAW - PDS Law Enforcement Confirmed
 
 Sample Inputs:
